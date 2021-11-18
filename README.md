@@ -1,1 +1,3 @@
 # LinkedIn-AutoConnect-Plugin
+
+This Chrome Extension Is Under Development...
